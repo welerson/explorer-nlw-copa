@@ -4,6 +4,7 @@ Tecnologias   |    Projeto   |    Layout   |    Licença
 
 License
 
+![3DTest.png](https://github.com/maykbrito/nlw-10-copa/blob/main/.github/preview.jpg)
 
 calendario da copa
 
@@ -13,6 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 HTML e CSS
 JavaScript
 Git e Github
+
 💻 Projeto
 O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
 

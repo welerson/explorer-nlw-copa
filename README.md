@@ -4,7 +4,9 @@ Tecnologias   |    Projeto   |    Layout   |    Licença
 
 License
 
-![3DTest.png](https://github.com/maykbrito/nlw-10-copa/blob/main/.github/preview.jpg)
+![3DTest.png](https://github.com/monicaquintal/NLW-copa/raw/main/capa/preview.jpg)
+
+
 
 calendario da copa
 
